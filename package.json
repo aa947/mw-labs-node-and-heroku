@@ -1,0 +1,22 @@
+{
+  "name": "mw-labs",
+  "version": "1.0.0",
+  "description": "mw-labs portfolio done with express and heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/mw-labs.git"
+  },
+  "keywords": [
+    "mw-labs"
+  ],
+  "author": "Ahmad Ali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
